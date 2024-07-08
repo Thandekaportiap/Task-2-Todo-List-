@@ -1,0 +1,27 @@
+body {
+    color: black;
+    align-items: center;
+    margin-top: 16px;
+    display: flex;
+    flex-direction: column;
+    height: 98vh;
+} .header {
+    font-weight: 500;
+}
+
+.btn {
+    padding: 6px 25px;
+    border-radius: 4px;
+
+}
+.btn-danger {
+    background-color: red;
+    margin-left: 4px;
+}
+
+#item {
+    width: 85%;
+    height: 24px;
+    border: solid 2px blue;
+
+}
